@@ -1,5 +1,5 @@
 {
-    "show_dialog": true,
+    "show_dialog": false,
       "title": "Download InstaPro v12.90",
         "message": "Update Your InstaPro App",
           "button_text": "Download App",

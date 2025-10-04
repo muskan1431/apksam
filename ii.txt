@@ -1,0 +1,1 @@
+{'updateVer':'98', 'displayText':'Download YouTube Pro Latest V38', 'displayType':'video', 'videoLink':'https://samitsolution.github.io/videos/how-to-update.mp4', 'other':'https://www.samapkstore.com/2024/10/youtubeproapp.html'}

@@ -1,1 +1,1 @@
-{'updateVer':'9', 'displayText':'How To Fix Flick in Some Id's', 'displayType':'video', 'videoLink':'  https://youtube.com/shorts/tbv97mBX_Nw?si=ysGPs2SZGie7czX4', 'other':'https://www.instamod.app'}
+{'updateVer':'9', 'displayText':'How To Fix Flick in Some Id's', 'displayType':'link', 'videoLink':'  https://youtube.com/shorts/tbv97mBX_Nw?si=ysGPs2SZGie7czX4', 'other':'https://www.instamod.app'}

@@ -1,1 +1,1 @@
-{'updateVer':'10', 'displayText':'How To Fix Flick in Some Id's', 'displayType':'video', 'videoLink':'https://samitsolution.github.io/videos/how-to-update.mp4', 'other':'https://www.samapkstore.com/2024/10/youtubeproapp.html'}
+{'updateVer':'9', 'displayText':'How To Fix Flick in Some Id's', 'displayType':'video', 'videoLink':'https://samitsolution.github.io/videos/how-to-update.mp4', 'other':'https://www.samapkstore.com/2024/10/youtubeproapp.html'}

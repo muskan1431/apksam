@@ -1,1 +1,1 @@
-{'updateVer':'40', 'displayText':'How To Update InstaPro', 'displayType':'video', 'videoLink':'https://samitsolution.github.io/videos/how-to-update.mp4', 'other':'https://www.instamod.app'}
+{'updateVer':'40', 'displayText':'How To Update InstaPro', 'displayType':'video', 'videoLink':'https://apksam.com/5554483808297153799.mp4', 'other':'https://www.instamod.app'}

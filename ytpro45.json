@@ -1,11 +1,12 @@
 {
-  "show_message": false,
+  "show_message": true,
   "title": "YouTube Pro v50",
   "content_url": "https://apksam.com/Ytproinfo.html",
   "positive_btn": "Download Now",
-  "link": "https://www.samapkstore.com/2021/04/download-youtube-pro.html?m=1",
+  "link": "https://www.samapkstore.com/2021/04/download-youtube-pro.html",
   "cancelable": true
 }
+
 
 
 

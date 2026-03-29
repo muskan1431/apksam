@@ -1,5 +1,5 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Downloa80",
   "content_url": "https://devmsg.fun/instapro.html",
   "positive_btn": "Download Now",

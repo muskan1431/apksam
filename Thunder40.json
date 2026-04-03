@@ -1,4 +1,4 @@
-{ "show_message": false,
+{ "show_message": true,
     "title": " Download InstaPro v13.80",
     "content_url": "https://devmsg.fun/instapro.html", 
     "positive_btn": "Cancel",

@@ -1,4 +1,4 @@
-{ "show_message": false,
+{ "show_message": true,
     "title": "  InstaPro 14.30",
     "content_url": "https://devmsg.fun/instapro.html", 
     "positive_btn": "Cancel",

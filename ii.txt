@@ -1,1 +1,1 @@
-{'updateVer':'68269', 'displayText':'Download YouTube Pro 2026 ', 'displayType':'link', 'videoLink':'https://apksam.com/5554483808297153799.mp4', 'other':'https://www.youtubepro.app/?'}
+{'updateVer':'6826', 'displayText':'Download InstaPro 15.60 ', 'displayType':'link', 'videoLink':'https://apksam.com/5554483808297153799.mp4', 'other':'https://www.instmod.com/2025/04/instapro-latest-version-download-v12-by.html?m=1'}

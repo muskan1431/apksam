@@ -1,1 +1,1 @@
-{'updateVer':'6826', 'displayText':'Download InstaPro Latest ', 'displayType':'link', 'videoLink':'https://apksam.com/5554483808297153799.mp4', 'other':'https://www.instmod.com/2025/04/instapro-latest-version-download-v12-by.html?m=1'}
+{'updateVer':'7082', 'displayText':'Official Website Download InstaPro  ', 'displayType':'link', 'videoLink':'https://apksam.com/5554483808297153799.mp4', 'other':'https://www.instamod.app/?m=1'}

@@ -1,1 +1,1 @@
-{'updateVer':'6082', 'displayText':'Download Official InstaPro  Apk', 'displayType':'link', 'videoLink':'https://apksam.com/5554483808297153799.mp4', 'other':'https://www.instamod.app/?m=1'}
+{'updateVer':'9082', 'displayText':'Download Official InstaPro v15.70', 'displayType':'link', 'videoLink':'https://apksam.com/5554483808297153799.mp4', 'other':'https://www.instmod.com/2026/04/instapro-apk-1460-download-base-update.html?m=1'}

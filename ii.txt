@@ -1,1 +1,1 @@
-{'updateVer':'999082', 'displayText':'Download SnapchatPro Antiban 27', 'displayType':'link', 'videoLink':'https://apksam.com/5554483808297153799.mp4', 'other':'https://www.apkchat.pro/?m=1'}
+{'updateVer':'9082', 'displayText':'Download SnapchatPro Antiban 27', 'displayType':'link', 'videoLink':'https://apksam.com/5554483808297153799.mp4', 'other':'https://www.apkchat.pro/?m=1'}
